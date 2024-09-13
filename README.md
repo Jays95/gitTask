@@ -1,7 +1,7 @@
 # My Awesome Polls and Authentication Project
 
 ## Description
-My project reads in data from the user and store it on the webpsite ,the app also allow the user to make changes to the questions and choices they submitted . It's essential to leave rooms for errors which can be change again on a later stage.
+My project reads in data from the user and store it on the website ,the app also allow the user to make changes to the questions and choices they submitted . It's essential to leave rooms for errors which can be change again on a later stage.
 
 ## Table of Contents
 - Installation
